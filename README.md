@@ -3,7 +3,9 @@
 
 ## PODSTAWOWE ZAŁOŻENIA PROJEKTU
 
-Założeniem projektu jest stworzenie bazy danych szkoły, która będzie przechowywać podstawowe informacje na temat uczniów, nauczycieli, zajęć jak i elementów ściśle powiązanych ze szkołą takich jak sklepik czy biblioteka. Głównymi tabelami będą tabele uczeń oraz nauczyciel. Uczniowie należą do klas, które mają swój plan lekcji. Nauczyciele prowadzą swoje przedmioty, mają dyżury oraz lekcje.  Istnieją również dodatkowe tabele dotyczące sklepiku szkolnego, biblioteki oraz pozostałych pracowników szkoły. Tabela absolwenci przechowuje uczniów, którzy zakończyli szkołę (więcej na temat tabel w dalszej części opisu). Diagram bazy danych znajduje się w osobny pliku o nazwie Diagram.rtf.
+Założeniem projektu jest stworzenie bazy danych szkoły, która będzie przechowywać podstawowe informacje na temat uczniów, nauczycieli, zajęć jak i elementów ściśle powiązanych ze szkołą takich jak sklepik czy biblioteka. Głównymi tabelami będą tabele uczeń oraz nauczyciel. Uczniowie należą do klas, które mają swój plan lekcji. Nauczyciele prowadzą swoje przedmioty, mają dyżury oraz lekcje.  Istnieją również dodatkowe tabele dotyczące sklepiku szkolnego, biblioteki oraz pozostałych pracowników szkoły. Tabela absolwenci przechowuje uczniów, którzy zakończyli szkołę (więcej na temat tabel w dalszej części opisu). Diagram bazy danych znajduje się w osobny pliku o nazwie Diagram2.jpg.
+
+![Diagram](Diagram2.jpg)
 
 # Opis stworzonych funkcji
 
